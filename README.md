@@ -1,7 +1,7 @@
 # ZIF Socket
 
-![enter image description here](https://i2.wp.com/palmacas.com/wp-content/uploads/post25_1.png?w=662&ssl=1)\
-This board works as adapter to program PIC micro controllers using the PICKit2 or PICKit3. The ZIF_Distribution folder contains images with the ICs and jumpers distribution on the ZIF socket depending on the PIC type.
+![ZIFSocket](https://i2.wp.com/palmacas.com/wp-content/uploads/post25_1.png?w=662&ssl=1)\
+This board works as adapter to program PIC microcontrollers using the PICKit2 or PICKit3. The ZIF_Distribution folder contains images with the ICs and jumpers distribution on the ZIF socket depending on the PIC type.
 
 More information:\
 [Zócalo ZIF – PICKit 2 y PICKit 3 [Spanish]](https://palmacas.com/zocalo-zif-pickit-2-y-pickit-3/)\
